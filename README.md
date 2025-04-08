@@ -30,7 +30,7 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://github.com/your-username/your-repo-name/blob/main/survival-dashboard-preview.png)
+![Dashboard Preview](https://github.com/bamaneshubham/survival-gear-sales-powerbi/blob/main/survival-dashboard-preview.png)
 
 ## 🚀 How to Use
 1. Download and open the `.pbix` file using Power BI Desktop.
