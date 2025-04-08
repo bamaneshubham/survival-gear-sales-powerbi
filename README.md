@@ -39,6 +39,5 @@ The dataset includes:
 
 ## 💼 About Me
 I'm a data enthusiast passionate about solving business problems through data visualization and storytelling.  
-📎 [LinkedIn](https://www.linkedin.com)  
-🐙 [GitHub](https://github.com/your-username)
+📎 [LinkedIn](https://www.linkedin.com/in/shubhambamane/)  
 
